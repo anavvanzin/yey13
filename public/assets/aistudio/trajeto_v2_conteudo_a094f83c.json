@@ -1,0 +1,1612 @@
+[
+  {
+    "shapes": {
+      "items": [
+        {
+          "name": "title",
+          "geometry": "textbox",
+          "position": {
+            "left": 70,
+            "top": 52,
+            "width": 1100,
+            "height": 110
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "ICONOCRACIA"
+        },
+        {
+          "name": "page",
+          "geometry": "textbox",
+          "position": {
+            "left": 1170,
+            "top": 60,
+            "width": 60,
+            "height": 40
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "01"
+        },
+        {
+          "name": "main",
+          "geometry": "textbox",
+          "position": {
+            "left": 75,
+            "top": 200,
+            "width": 1120,
+            "height": 240
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "O que a pesquisa\nme fez abandonar"
+        },
+        {
+          "name": "subtitle",
+          "geometry": "textbox",
+          "position": {
+            "left": 78,
+            "top": 490,
+            "width": 1100,
+            "height": 60
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "Decisões do meu primeiro ano de doutorado"
+        },
+        {
+          "name": "author",
+          "geometry": "textbox",
+          "position": {
+            "left": 78,
+            "top": 595,
+            "width": 1100,
+            "height": 70
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "Ana Vitória Vanzin Mendes\nDoutoranda em Direito, UFSC"
+        }
+      ]
+    },
+    "images": {
+      "items": []
+    },
+    "background": {
+      "fill": "#361923"
+    },
+    "speakerNotes": {
+      "text": "13 novembro 2026. Relato de percurso intelectual. As datas pontuais dizem respeito aos documentos examinados, não a uma cronologia exaustiva de todo o primeiro ano."
+    },
+    "size": {
+      "width": 1280,
+      "height": 720
+    }
+  },
+  {
+    "shapes": {
+      "items": [
+        {
+          "name": "title",
+          "geometry": "textbox",
+          "position": {
+            "left": 70,
+            "top": 52,
+            "width": 1100,
+            "height": 110
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "A pergunta que permanece"
+        },
+        {
+          "name": "page",
+          "geometry": "textbox",
+          "position": {
+            "left": 1170,
+            "top": 60,
+            "width": 60,
+            "height": 40
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "02"
+        },
+        {
+          "name": "question",
+          "geometry": "textbox",
+          "position": {
+            "left": 75,
+            "top": 210,
+            "width": 1120,
+            "height": 190
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "Por que representar\na autoridade como mulher?"
+        },
+        {
+          "name": "tension",
+          "geometry": "textbox",
+          "position": {
+            "left": 78,
+            "top": 455,
+            "width": 1100,
+            "height": 100
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "A presença de mulheres nas imagens\ne as posições jurídicas das mulheres não coincidem."
+        },
+        {
+          "name": "open",
+          "geometry": "textbox",
+          "position": {
+            "left": 78,
+            "top": 590,
+            "width": 1100,
+            "height": 70
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "Que relação histórica posso demonstrar entre essas duas coisas?"
+        }
+      ]
+    },
+    "images": {
+      "items": []
+    },
+    "background": {
+      "fill": "#F6F1E7"
+    },
+    "speakerNotes": {
+      "text": "Capítulo metodológico reconciliado, 26 outubro 2026, Introdução. A justaposição é o problema, não prova causal de exclusão, compensação ou recepção."
+    },
+    "size": {
+      "width": 1280,
+      "height": 720
+    }
+  },
+  {
+    "shapes": {
+      "items": [
+        {
+          "name": "title",
+          "geometry": "textbox",
+          "position": {
+            "left": 70,
+            "top": 52,
+            "width": 1100,
+            "height": 110
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "Um arquivo de versões"
+        },
+        {
+          "name": "page",
+          "geometry": "textbox",
+          "position": {
+            "left": 1170,
+            "top": 60,
+            "width": 60,
+            "height": 40
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "03"
+        },
+        {
+          "name": "explain",
+          "geometry": "textbox",
+          "position": {
+            "left": 75,
+            "top": 195,
+            "width": 1120,
+            "height": 150
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "Guardo o texto anterior, a alteração\ne a razão da alteração."
+        },
+        {
+          "name": "terms",
+          "geometry": "textbox",
+          "position": {
+            "left": 78,
+            "top": 385,
+            "width": 1110,
+            "height": 160
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "GitHub é o serviço onde guardo esse arquivo.\nRepositório é a pasta organizada do projeto.\nVersionar é conservar o histórico das mudanças."
+        },
+        {
+          "name": "purpose",
+          "geometry": "textbox",
+          "position": {
+            "left": 78,
+            "top": 590,
+            "width": 1100,
+            "height": 65
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "Assim, posso mostrar o caminho que uma conclusão percorreu."
+        }
+      ]
+    },
+    "images": {
+      "items": []
+    },
+    "background": {
+      "fill": "#F6F1E7"
+    },
+    "speakerNotes": {
+      "text": "Explicação acessível dos termos. Repositório tem funções além de pasta, mas a analogia serve à apresentação. O registro de uma mudança não comprova por si sua correção histórica."
+    },
+    "size": {
+      "width": 1280,
+      "height": 720
+    }
+  },
+  {
+    "shapes": {
+      "items": [
+        {
+          "name": "title",
+          "geometry": "textbox",
+          "position": {
+            "left": 70,
+            "top": 52,
+            "width": 1100,
+            "height": 110
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "1. Um número para comparar imagens"
+        },
+        {
+          "name": "page",
+          "geometry": "textbox",
+          "position": {
+            "left": 1170,
+            "top": 60,
+            "width": 60,
+            "height": 40
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "04"
+        },
+        {
+          "name": "left-label",
+          "geometry": "textbox",
+          "position": {
+            "left": 75,
+            "top": 205,
+            "width": 510,
+            "height": 44
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "PROPOSTA ANTERIOR"
+        },
+        {
+          "name": "left",
+          "geometry": "textbox",
+          "position": {
+            "left": 75,
+            "top": 265,
+            "width": 510,
+            "height": 240
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "Reunir os indicadores\nem um índice composto."
+        },
+        {
+          "name": "right-label",
+          "geometry": "textbox",
+          "position": {
+            "left": 680,
+            "top": 205,
+            "width": 515,
+            "height": 44
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "DECISÃO"
+        },
+        {
+          "name": "right",
+          "geometry": "textbox",
+          "position": {
+            "left": 680,
+            "top": 265,
+            "width": 515,
+            "height": 240
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "Conservar os dez\nindicadores separados."
+        },
+        {
+          "name": "bottom",
+          "geometry": "textbox",
+          "position": {
+            "left": 75,
+            "top": 558,
+            "width": 1120,
+            "height": 105
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "A comparação permanece. O número único deixa de sustentar a interpretação."
+        }
+      ]
+    },
+    "images": {
+      "items": []
+    },
+    "background": {
+      "fill": "#F6F1E7"
+    },
+    "speakerNotes": {
+      "text": "Síntese, não citação literal. DEC-2026-07-28-COMPOSTO aposenta índice e cessa cálculo novo. Decisão 24 setembro retira campo dos dados ativos, verificada em 29 setembro. PR239 em 24 outubro retira argumento quantitativo residual do manuscrito. Capítulo reconciliado §§2.3.1–2.3.3. Problema metodológico: agregar descrições não demonstra uma genealogia nem a função jurídico-política da imagem."
+    },
+    "size": {
+      "width": 1280,
+      "height": 720
+    }
+  },
+  {
+    "shapes": {
+      "items": [
+        {
+          "name": "title",
+          "geometry": "textbox",
+          "position": {
+            "left": 70,
+            "top": 52,
+            "width": 1100,
+            "height": 110
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "O que seria uma boa discordância?"
+        },
+        {
+          "name": "page",
+          "geometry": "textbox",
+          "position": {
+            "left": 1170,
+            "top": 60,
+            "width": 60,
+            "height": 40
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "05"
+        },
+        {
+          "name": "left-label",
+          "geometry": "textbox",
+          "position": {
+            "left": 75,
+            "top": 205,
+            "width": 510,
+            "height": 44
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "EXIGÊNCIA ANTERIOR"
+        },
+        {
+          "name": "left",
+          "geometry": "textbox",
+          "position": {
+            "left": 75,
+            "top": 265,
+            "width": 510,
+            "height": 240
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "Um limiar de concordância\npoderia eliminar itens\nautomaticamente."
+        },
+        {
+          "name": "right-label",
+          "geometry": "textbox",
+          "position": {
+            "left": 680,
+            "top": 205,
+            "width": 515,
+            "height": 44
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "REVISÃO"
+        },
+        {
+          "name": "right",
+          "geometry": "textbox",
+          "position": {
+            "left": 680,
+            "top": 265,
+            "width": 515,
+            "height": 240
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "A divergência pode revelar\num erro, um critério ambíguo\nou leituras historicamente distintas."
+        },
+        {
+          "name": "bottom",
+          "geometry": "textbox",
+          "position": {
+            "left": 75,
+            "top": 558,
+            "width": 1120,
+            "height": 105
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "Saem a obrigação e a eliminação automática. Um diagnóstico de concordância continua possível."
+        }
+      ]
+    },
+    "images": {
+      "items": []
+    },
+    "background": {
+      "fill": "#F6F1E7"
+    },
+    "speakerNotes": {
+      "text": "Síntese do capítulo reconciliado §2.4.2–2.4.3. Decisões de 29/31 julho dispensam métricas como requisitos formais. κ≥0,70 e eliminação automática retirados. Não afirmar que testes são proibidos ou inúteis. Piloto de 30 imagens permanece proposta, sem execução certificada nas fontes examinadas."
+    },
+    "size": {
+      "width": 1280,
+      "height": 720
+    }
+  },
+  {
+    "shapes": {
+      "items": [
+        {
+          "name": "title",
+          "geometry": "textbox",
+          "position": {
+            "left": 70,
+            "top": 52,
+            "width": 1100,
+            "height": 110
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "2. Warburg contra Panofsky?"
+        },
+        {
+          "name": "page",
+          "geometry": "textbox",
+          "position": {
+            "left": 1170,
+            "top": 60,
+            "width": 60,
+            "height": 40
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "06"
+        },
+        {
+          "name": "left-label",
+          "geometry": "textbox",
+          "position": {
+            "left": 75,
+            "top": 205,
+            "width": 510,
+            "height": 44
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "NO RASCUNHO"
+        },
+        {
+          "name": "left",
+          "geometry": "textbox",
+          "position": {
+            "left": 75,
+            "top": 265,
+            "width": 510,
+            "height": 240
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "A iconologia panofskiana\naparecia como incompatível\ncom a pesquisa."
+        },
+        {
+          "name": "right-label",
+          "geometry": "textbox",
+          "position": {
+            "left": 680,
+            "top": 205,
+            "width": 515,
+            "height": 44
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "NA REVISÃO"
+        },
+        {
+          "name": "right",
+          "geometry": "textbox",
+          "position": {
+            "left": 680,
+            "top": 265,
+            "width": 515,
+            "height": 240
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "A montagem convive\ncom a distinção entre descrever,\nidentificar e interpretar."
+        },
+        {
+          "name": "bottom",
+          "geometry": "textbox",
+          "position": {
+            "left": 75,
+            "top": 558,
+            "width": 1120,
+            "height": 105
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "Abandonei a exclusão categórica. Mantive a pergunta sobre como uma imagem permite interpretar a história."
+        }
+      ]
+    },
+    "images": {
+      "items": []
+    },
+    "background": {
+      "fill": "#F6F1E7"
+    },
+    "speakerNotes": {
+      "text": "Síntese documental do capítulo metodológico reconciliado 26 outubro, §2.2.2 e registro A08. Rascunho D1 excluía Panofsky. Revisão incorporada pela PR225 preserva níveis de leitura. Não alegar equivalência dos métodos ou adesão irrestrita a ambos."
+    },
+    "size": {
+      "width": 1280,
+      "height": 720
+    }
+  },
+  {
+    "shapes": {
+      "items": [
+        {
+          "name": "title",
+          "geometry": "textbox",
+          "position": {
+            "left": 70,
+            "top": 52,
+            "width": 1100,
+            "height": 110
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "Os casos que resistem à hipótese"
+        },
+        {
+          "name": "page",
+          "geometry": "textbox",
+          "position": {
+            "left": 1170,
+            "top": 60,
+            "width": 60,
+            "height": 40
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "07"
+        },
+        {
+          "name": "regimes",
+          "geometry": "textbox",
+          "position": {
+            "left": 80,
+            "top": 200,
+            "width": 500,
+            "height": 260
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "Fundacional\nNormativo\nMilitar"
+        },
+        {
+          "name": "test",
+          "geometry": "textbox",
+          "position": {
+            "left": 680,
+            "top": 215,
+            "width": 510,
+            "height": 70
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "E a contra-alegoria?"
+        },
+        {
+          "name": "answer",
+          "geometry": "textbox",
+          "position": {
+            "left": 680,
+            "top": 325,
+            "width": 510,
+            "height": 210
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "Ela testa os limites\nda interpretação.\nNão entra apenas para\nconfirmar a regra."
+        },
+        {
+          "name": "bottom",
+          "geometry": "textbox",
+          "position": {
+            "left": 80,
+            "top": 598,
+            "width": 1110,
+            "height": 70
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "Três regimes de leitura e um teste crítico, sem classificação automática por escore."
+        }
+      ]
+    },
+    "images": {
+      "items": []
+    },
+    "background": {
+      "fill": "#361923"
+    },
+    "speakerNotes": {
+      "text": "Contrato metodológico 31 julho 2026. Contra-alegoria como teste crítico. A existência posterior de quatro categorias em um site não comprova que quatro regimes fossem decisão autoral anterior. Não apresentar esse contraste como mudança histórica não documentada."
+    },
+    "size": {
+      "width": 1280,
+      "height": 720
+    }
+  },
+  {
+    "shapes": {
+      "items": [
+        {
+          "name": "title",
+          "geometry": "textbox",
+          "position": {
+            "left": 70,
+            "top": 52,
+            "width": 1100,
+            "height": 110
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "3. Reunir imagens e sustentar uma tese"
+        },
+        {
+          "name": "page",
+          "geometry": "textbox",
+          "position": {
+            "left": 1170,
+            "top": 60,
+            "width": 60,
+            "height": 40
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "08"
+        },
+        {
+          "name": "left-label",
+          "geometry": "textbox",
+          "position": {
+            "left": 75,
+            "top": 205,
+            "width": 510,
+            "height": 44
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "CATÁLOGO"
+        },
+        {
+          "name": "left",
+          "geometry": "textbox",
+          "position": {
+            "left": 75,
+            "top": 265,
+            "width": 510,
+            "height": 240
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "Um acervo comparativo\namplo, aberto\ne transnacional."
+        },
+        {
+          "name": "right-label",
+          "geometry": "textbox",
+          "position": {
+            "left": 680,
+            "top": 205,
+            "width": 515,
+            "height": 44
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "NÚCLEO DA TESE"
+        },
+        {
+          "name": "right",
+          "geometry": "textbox",
+          "position": {
+            "left": 680,
+            "top": 265,
+            "width": 515,
+            "height": 240
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "Brasil, 1822–1922.\nCasos selecionados pela\npergunta e pela documentação."
+        },
+        {
+          "name": "bottom",
+          "geometry": "textbox",
+          "position": {
+            "left": 75,
+            "top": 558,
+            "width": 1120,
+            "height": 105
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "A amplitude do arquivo não determina o alcance de uma conclusão."
+        }
+      ]
+    },
+    "images": {
+      "items": []
+    },
+    "background": {
+      "fill": "#F6F1E7"
+    },
+    "speakerNotes": {
+      "text": "Distinção de escalas, não uma alegação de que a autora descartou o catálogo. Contrato 31 julho janela operacional1800–2000. Projeto de23 outubro já explicita teseBrasil1822–1922. Capítulo reconciliado26 outubro §2.1.1. Não transportar totais de versões diferentes para o núcleo sem recontagem."
+    },
+    "size": {
+      "width": 1280,
+      "height": 720
+    }
+  },
+  {
+    "shapes": {
+      "items": [
+        {
+          "name": "title",
+          "geometry": "textbox",
+          "position": {
+            "left": 70,
+            "top": 52,
+            "width": 1100,
+            "height": 110
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "4. A frase que dizia mais do que a fonte"
+        },
+        {
+          "name": "page",
+          "geometry": "textbox",
+          "position": {
+            "left": 1170,
+            "top": 60,
+            "width": 60,
+            "height": 40
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "09"
+        },
+        {
+          "name": "left-label",
+          "geometry": "textbox",
+          "position": {
+            "left": 75,
+            "top": 205,
+            "width": 510,
+            "height": 44
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "ANTES, NO SLIDE"
+        },
+        {
+          "name": "left",
+          "geometry": "textbox",
+          "position": {
+            "left": 75,
+            "top": 265,
+            "width": 510,
+            "height": 240
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "“Uma figura de autoridade\ncomprada de um catálogo\nparisiense...”"
+        },
+        {
+          "name": "right-label",
+          "geometry": "textbox",
+          "position": {
+            "left": 680,
+            "top": 205,
+            "width": 515,
+            "height": 44
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "O QUE POSSO SUSTENTAR"
+        },
+        {
+          "name": "right",
+          "geometry": "textbox",
+          "position": {
+            "left": 680,
+            "top": 265,
+            "width": 515,
+            "height": 240
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "A atribuição à Val d’Osne\najuda a identificar o busto.\nA compra exige outra fonte."
+        },
+        {
+          "name": "bottom",
+          "geometry": "textbox",
+          "position": {
+            "left": 75,
+            "top": 558,
+            "width": 1120,
+            "height": 105
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "Sai a rota de aquisição presumida. Ficam o objeto e a investigação de sua circulação."
+        }
+      ]
+    },
+    "images": {
+      "items": []
+    },
+    "background": {
+      "fill": "#F6F1E7"
+    },
+    "speakerNotes": {
+      "text": "Tradução parcial de frase real do HTML anterior: “A figure of authority bought from a Paris catalogue, reproduced from a matrix.” Auditoria do busto: fabricação e correspondência de catálogo não provam comprador, compra direta ou rota. Catálogo MHSC2023p195 conforme auditoria previamente reunida. Não substituir uma certeza excessiva por afirmação de inexistência de compra."
+    },
+    "size": {
+      "width": 1280,
+      "height": 720
+    }
+  },
+  {
+    "shapes": {
+      "items": [
+        {
+          "name": "title",
+          "geometry": "textbox",
+          "position": {
+            "left": 70,
+            "top": 52,
+            "width": 1100,
+            "height": 110
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "5. Uma cópia perfeita pode ser ilícita"
+        },
+        {
+          "name": "page",
+          "geometry": "textbox",
+          "position": {
+            "left": 1170,
+            "top": 60,
+            "width": 60,
+            "height": 40
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "10"
+        },
+        {
+          "name": "before",
+          "geometry": "textbox",
+          "position": {
+            "left": 78,
+            "top": 205,
+            "width": 450,
+            "height": 45
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "No slide anterior"
+        },
+        {
+          "name": "old",
+          "geometry": "textbox",
+          "position": {
+            "left": 78,
+            "top": 270,
+            "width": 1100,
+            "height": 120
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "“A autenticação remete à matéria,\nforma, peso e valor intrínseco.”"
+        },
+        {
+          "name": "source",
+          "geometry": "textbox",
+          "position": {
+            "left": 78,
+            "top": 430,
+            "width": 1100,
+            "height": 48
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "No art. 239 do Código Penal de 1890"
+        },
+        {
+          "name": "law",
+          "geometry": "textbox",
+          "position": {
+            "left": 78,
+            "top": 495,
+            "width": 1100,
+            "height": 100
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "“sem autoridade legitima”"
+        }
+      ]
+    },
+    "images": {
+      "items": []
+    },
+    "background": {
+      "fill": "#361923"
+    },
+    "speakerNotes": {
+      "text": "Primeira frase: tradução do slide anterior “Authentication indexes matter, form, weight and intrinsic value.” Segunda: trecho do Decreto847/1890 art239. O dispositivo trata de fabricar sem autoridade legítima ainda que matéria, forma, peso e valor correspondam à moeda verdadeira. Fonte primária:https://www2.camara.leg.br/legin/fed/decret/1824-1899/decreto-847-11-outubro-1890-503086-publicacaooriginal-1-pe.html. Aqui a fonte contraria o alcance da formulação anterior, não autoriza teoria universal de toda imagem oficial."
+    },
+    "size": {
+      "width": 1280,
+      "height": 720
+    }
+  },
+  {
+    "shapes": {
+      "items": [
+        {
+          "name": "title",
+          "geometry": "textbox",
+          "position": {
+            "left": 70,
+            "top": 52,
+            "width": 1100,
+            "height": 110
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "O que essa leitura mudou"
+        },
+        {
+          "name": "page",
+          "geometry": "textbox",
+          "position": {
+            "left": 1170,
+            "top": 60,
+            "width": 60,
+            "height": 40
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "11"
+        },
+        {
+          "name": "left-label",
+          "geometry": "textbox",
+          "position": {
+            "left": 75,
+            "top": 205,
+            "width": 510,
+            "height": 44
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "QUESTÃO VISUAL"
+        },
+        {
+          "name": "left",
+          "geometry": "textbox",
+          "position": {
+            "left": 75,
+            "top": 265,
+            "width": 510,
+            "height": 240
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "Como a imagem\nrepresenta a autoridade?"
+        },
+        {
+          "name": "right-label",
+          "geometry": "textbox",
+          "position": {
+            "left": 680,
+            "top": 205,
+            "width": 515,
+            "height": 44
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "QUESTÃO JURÍDICA"
+        },
+        {
+          "name": "right",
+          "geometry": "textbox",
+          "position": {
+            "left": 680,
+            "top": 265,
+            "width": 515,
+            "height": 240
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "Quem pode emitir\ne o que torna\na fabricação autorizada?"
+        },
+        {
+          "name": "bottom",
+          "geometry": "textbox",
+          "position": {
+            "left": 75,
+            "top": 558,
+            "width": 1120,
+            "height": 105
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "A leitura da forma continua. Ela precisa encontrar as regras e os atos que fazem o objeto operar juridicamente."
+        }
+      ]
+    },
+    "images": {
+      "items": []
+    },
+    "background": {
+      "fill": "#F6F1E7"
+    },
+    "speakerNotes": {
+      "text": "Consequência analítica delimitada pelo art239. Não afirmar que alegoria feminina valida moeda ou que qualquer erro material invalida um ato. Representação e autenticação podem se relacionar, mas essa relação exige demonstração caso a caso."
+    },
+    "size": {
+      "width": 1280,
+      "height": 720
+    }
+  },
+  {
+    "shapes": {
+      "items": [
+        {
+          "name": "title",
+          "geometry": "textbox",
+          "position": {
+            "left": 70,
+            "top": 52,
+            "width": 1100,
+            "height": 110
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "O que saiu. O que continuou."
+        },
+        {
+          "name": "page",
+          "geometry": "textbox",
+          "position": {
+            "left": 1170,
+            "top": 60,
+            "width": 60,
+            "height": 40
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "12"
+        },
+        {
+          "name": "a",
+          "geometry": "textbox",
+          "position": {
+            "left": 78,
+            "top": 200,
+            "width": 520,
+            "height": 45
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "DEIXEI PARA TRÁS"
+        },
+        {
+          "name": "b",
+          "geometry": "textbox",
+          "position": {
+            "left": 680,
+            "top": 200,
+            "width": 520,
+            "height": 45
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "PRESERVEI OU REFORMULEI"
+        },
+        {
+          "name": "a-list",
+          "geometry": "textbox",
+          "position": {
+            "left": 78,
+            "top": 285,
+            "width": 520,
+            "height": 260
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "Índice composto\nLimiar obrigatório\nExclusão de Panofsky\nCompra presumida"
+        },
+        {
+          "name": "b-list",
+          "geometry": "textbox",
+          "position": {
+            "left": 680,
+            "top": 285,
+            "width": 520,
+            "height": 260
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "Indicadores separados\nExame das divergências\nNíveis de leitura e montagem\nDossiê de circulação"
+        },
+        {
+          "name": "bottom",
+          "geometry": "textbox",
+          "position": {
+            "left": 78,
+            "top": 605,
+            "width": 1110,
+            "height": 60
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "As versões conservam também o que hoje eu já não defenderia."
+        }
+      ]
+    },
+    "images": {
+      "items": []
+    },
+    "background": {
+      "fill": "#F6F1E7"
+    },
+    "speakerNotes": {
+      "text": "Síntese das decisões documentadas nos slides anteriores. “Compra presumida” significa retirada do alcance da alegação no texto, não prova de que a compra não ocorreu."
+    },
+    "size": {
+      "width": 1280,
+      "height": 720
+    }
+  },
+  {
+    "shapes": {
+      "items": [
+        {
+          "name": "title",
+          "geometry": "textbox",
+          "position": {
+            "left": 70,
+            "top": 52,
+            "width": 1100,
+            "height": 110
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "A hipótese continua exposta ao arquivo"
+        },
+        {
+          "name": "page",
+          "geometry": "textbox",
+          "position": {
+            "left": 1170,
+            "top": 60,
+            "width": 60,
+            "height": 40
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "13"
+        },
+        {
+          "name": "q",
+          "geometry": "textbox",
+          "position": {
+            "left": 75,
+            "top": 200,
+            "width": 1120,
+            "height": 180
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "Em que condições uma imagem\nparticipa da autoridade jurídica?"
+        },
+        {
+          "name": "needs",
+          "geometry": "textbox",
+          "position": {
+            "left": 78,
+            "top": 445,
+            "width": 1110,
+            "height": 150
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "Encomendas, escolhas e rejeições documentadas.\nNormas, usos e conflitos identificáveis.\nCasos que obriguem a alterar a explicação."
+        }
+      ]
+    },
+    "images": {
+      "items": []
+    },
+    "background": {
+      "fill": "#F6F1E7"
+    },
+    "speakerNotes": {
+      "text": "Formulação atual em investigação. Não constitui demonstração de originalidade, conclusão da auditoria total ou migração já decidida para iconoclastia. Historicismo: categorias, intencionalidade e recepção dependem de fontes situadas."
+    },
+    "size": {
+      "width": 1280,
+      "height": 720
+    }
+  },
+  {
+    "shapes": {
+      "items": [
+        {
+          "name": "title",
+          "geometry": "textbox",
+          "position": {
+            "left": 70,
+            "top": 52,
+            "width": 1100,
+            "height": 110
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "Para a conversa"
+        },
+        {
+          "name": "page",
+          "geometry": "textbox",
+          "position": {
+            "left": 1170,
+            "top": 60,
+            "width": 60,
+            "height": 40
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "14"
+        },
+        {
+          "name": "q",
+          "geometry": "textbox",
+          "position": {
+            "left": 75,
+            "top": 205,
+            "width": 1120,
+            "height": 265
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "Qual dessas decisões\nmuda mais o problema\nda pesquisa?"
+        },
+        {
+          "name": "second",
+          "geometry": "textbox",
+          "position": {
+            "left": 78,
+            "top": 550,
+            "width": 1120,
+            "height": 90
+          },
+          "fill": "none",
+          "line": {
+            "fill": "none",
+            "width": 0
+          },
+          "text": "E qual ainda precisa enfrentar uma fonte melhor?"
+        }
+      ]
+    },
+    "images": {
+      "items": []
+    },
+    "background": {
+      "fill": "#361923"
+    },
+    "speakerNotes": {
+      "text": "Encerramento para discussão do percurso. Para15min, encurtar slides4,6,7. Para20min, desenvolver os dois exemplos documentais. Sem narrativa de fracasso ou de progresso inevitável."
+    },
+    "size": {
+      "width": 1280,
+      "height": 720
+    }
+  }
+]

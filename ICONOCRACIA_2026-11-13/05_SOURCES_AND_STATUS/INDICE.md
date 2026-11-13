@@ -1,0 +1,48 @@
+# Índice de arquivos
+
+- 01_START_HERE/PROMPT_COMPLETO.md
+- 02_NEW_WORKING_DRAFTS/CV_SHORT_EN_WORKING_DRAFT.md
+- 02_NEW_WORKING_DRAFTS/PITCH_90_SECONDS_EN_WORKING_DRAFT.md
+- 02_NEW_WORKING_DRAFTS/PROJECT_BRIEF_EN_WORKING_DRAFT.md
+- 03_CURRENT_RESEARCH/Auditoria_Florianopolis_7_slides_2026-11-09.md
+- 03_CURRENT_RESEARCH/ICONOCRACIA_matriz_reconciliacao_2026-11-09.md
+- 03_CURRENT_RESEARCH/Iconocracy_full_project_speech_and_slide_plan.docx
+- 03_CURRENT_RESEARCH/Iconocracy_full_project_speech_and_slide_plan.pdf
+- 03_CURRENT_RESEARCH/iconocracy_research_audit_2026-11-10.pdf
+- 03_CURRENT_RESEARCH/iconocracy_revisao_metodologica_2026-11-10.docx
+- 03_CURRENT_RESEARCH/iconocracy_revisao_metodologica_2026-11-10.pdf
+- 04_EARLIER_VERSIONS/Arquitetura Revisada da Tese — ICONOCRACIA (pt).pdf
+- 04_EARLIER_VERSIONS/FOCUSED_TALK_UPLOADS/Between Representation and Authentication - Saberes França-Brasil 13-11 restyled.pdf
+- 04_EARLIER_VERSIONS/FOCUSED_TALK_UPLOADS/Between Representation and Authentication-11_9_2026, 10_50 PM.mp4
+- 04_EARLIER_VERSIONS/FOCUSED_TALK_UPLOADS/Between Representation and Authentication.pptx
+- 04_EARLIER_VERSIONS/FOCUSED_TALK_UPLOADS/Enhanced - Between Representation and Authentication.pdf
+- 04_EARLIER_VERSIONS/FOCUSED_TALK_UPLOADS/Enhanced - Between Representation and Authentication.pptx
+- 04_EARLIER_VERSIONS/FOCUSED_TALK_UPLOADS/spoken-script-english-and-italian-13-11-2026.md
+- 04_EARLIER_VERSIONS/Filosofia da pesquisa para a ICONOCRACY — guia metodológico (edição revista).pdf
+- 04_EARLIER_VERSIONS/ICONOCRACIA — Documento de orientação da tese · 27 out. 2026.md
+- 04_EARLIER_VERSIONS/ICONOCRACIA-sintese-e-mapa-de-atualizacao-2026-10-26.md
+- 04_EARLIER_VERSIONS/ICONOCRACIA_Audit_Working_Package_and_Ledgers.zip
+- 04_EARLIER_VERSIONS/ICONOCRACIA_Thesis_Audit_Working_Package.docx
+- 04_EARLIER_VERSIONS/ICONOCRACIA_auditoria_revista_e_matriz_2026-10-29.pdf
+- 04_EARLIER_VERSIONS/Iconocracia_fichas_e_metodologia.docx
+- 04_EARLIER_VERSIONS/Iconocracia_fichas_e_metodologia.pdf
+- 04_EARLIER_VERSIONS/Iconocracy-Agent-3.2.0-2026-11-05.zip
+- 04_EARLIER_VERSIONS/Iconocracy_Thesis_Audit.docx
+- 04_EARLIER_VERSIONS/Iconocracy_Thesis_Audit.pdf
+- 04_EARLIER_VERSIONS/Projeto_ICONOCRACIA_integral_Georges_23-10-2026.md
+- 04_EARLIER_VERSIONS/Projeto_ICONOCRACIA_revisao_academica_23-10-2026.docx
+- 04_EARLIER_VERSIONS/Projeto_ICONOCRACIA_revisao_academica_23-10-2026.pdf
+- 04_EARLIER_VERSIONS/Status_CPLX_ICONOCRACIA_corrigido_2026-11-01.md
+- 04_EARLIER_VERSIONS/TESE/05-Cross-Media Visual Montages in Legal History A Research Framework for Legal Iconology and Iconocracy.md
+- 04_EARLIER_VERSIONS/TESE/Filosofia_da_pesquisa_para_a_ICONOCRACY_guia_metodologico_(edicao_revista).docx
+- 04_EARLIER_VERSIONS/TESE/ICONOCRACIA Thesis_ An Assessment of Fit, Originality and Publication Prospects.pdf
+- 04_EARLIER_VERSIONS/TESE/ICONOCRACIA_capitulo_metodologico_reconciliado_2026-10-26.md
+- 04_EARLIER_VERSIONS/TESE/ICONOCRACIA_capitulo_metodologico_v1_1_dia_refine_2026-10-26.md
+- 04_EARLIER_VERSIONS/TESE/Iconocracia_auditoria_Consensus_Dialectic_2026-10-26.md
+- 04_EARLIER_VERSIONS/iconocracy-atlas-source-table - iconocracy-atlas-source-table.csv
+- 04_EARLIER_VERSIONS/iconocracy-warburg.md
+- 04_EARLIER_VERSIONS/orientacoes-georges-martyn-iconocracia-v2.docx
+- 04_EARLIER_VERSIONS/orientacoes-georges-martyn-iconocracia-v2.pdf
+- 05_SOURCES_AND_STATUS/STATUS_E_FONTES.md
+- 06_PRIVATE_STRATEGY_UNVERIFIED/Estrategia_Transicao_Doutoral_Iconocracia.md
+- README.md

@@ -1,0 +1,232 @@
+[
+  {
+    "file": "01_START_HERE/PROMPT_COMPLETO.md",
+    "bytes": 8506,
+    "sha256": "22b78ff2d0aa4b8783044a924a0d6ff9385ac0e23626c862dd77632b0406cf41"
+  },
+  {
+    "file": "02_NEW_WORKING_DRAFTS/CV_SHORT_EN_WORKING_DRAFT.md",
+    "bytes": 2104,
+    "sha256": "5f568a6456721bfc86a0d16d5b7f56c2d0013e3d48540e39d72678a452da8064"
+  },
+  {
+    "file": "02_NEW_WORKING_DRAFTS/PITCH_90_SECONDS_EN_WORKING_DRAFT.md",
+    "bytes": 1662,
+    "sha256": "d390ef09863e662c021c9b9abb338d05221cb8daaf1dda815c715c43b3ad86a8"
+  },
+  {
+    "file": "02_NEW_WORKING_DRAFTS/PROJECT_BRIEF_EN_WORKING_DRAFT.md",
+    "bytes": 6809,
+    "sha256": "2cd71b5f588e697e07987d3afea23e2d7c57ac99dd3935b17ae5a6cd3e53b29b"
+  },
+  {
+    "file": "03_CURRENT_RESEARCH/Auditoria_Florianopolis_7_slides_2026-11-09.md",
+    "bytes": 31352,
+    "sha256": "427b2e2941010a432fe16820fd9ce1b797ebfdf248a03f3c470c1951e1c5d9d0"
+  },
+  {
+    "file": "03_CURRENT_RESEARCH/ICONOCRACIA_matriz_reconciliacao_2026-11-09.md",
+    "bytes": 35631,
+    "sha256": "e774ee720351edd39ab4eb06d09eb560e9c15c66b183e5d0bfdbce7a79ba584a"
+  },
+  {
+    "file": "03_CURRENT_RESEARCH/Iconocracy_full_project_speech_and_slide_plan.docx",
+    "bytes": 47995,
+    "sha256": "333fcf376321cd227de5f6343fb86b437f48c3f6d43032b6d2ede7c7f851ed39"
+  },
+  {
+    "file": "03_CURRENT_RESEARCH/Iconocracy_full_project_speech_and_slide_plan.pdf",
+    "bytes": 170676,
+    "sha256": "fe341f53571a551429bbb19502305626d5cb5add618c50d87f2ec728fbcdd03f"
+  },
+  {
+    "file": "03_CURRENT_RESEARCH/iconocracy_research_audit_2026-11-10.pdf",
+    "bytes": 94590,
+    "sha256": "0144602c4ade88b4519ce6aba43db2bc90ffb89866a15d8ba700058772042831"
+  },
+  {
+    "file": "03_CURRENT_RESEARCH/iconocracy_revisao_metodologica_2026-11-10.docx",
+    "bytes": 61886,
+    "sha256": "acf1459d67e87d6781eb802d6fb3eb4a538d258c3f1f23c9dc36779f223b4279"
+  },
+  {
+    "file": "03_CURRENT_RESEARCH/iconocracy_revisao_metodologica_2026-11-10.pdf",
+    "bytes": 315249,
+    "sha256": "3f1619353c13a4b4e3ee4cab2cfcb4d735d3d8dd9d361a28e1e9645dde7e2acf"
+  },
+  {
+    "file": "04_EARLIER_VERSIONS/Arquitetura Revisada da Tese — ICONOCRACIA (pt).pdf",
+    "bytes": 415170,
+    "sha256": "1ca42ad0b95829b56a08f716cfd7a645155766cf6e6df6fb95830100568e6578"
+  },
+  {
+    "file": "04_EARLIER_VERSIONS/FOCUSED_TALK_UPLOADS/Between Representation and Authentication - Saberes França-Brasil 13-11 restyled.pdf",
+    "bytes": 1434070,
+    "sha256": "5dd9f3d8026930b10118561e304b8ae9f05e6bb4306643d8581e2f6902566aaf"
+  },
+  {
+    "file": "04_EARLIER_VERSIONS/FOCUSED_TALK_UPLOADS/Between Representation and Authentication-11_9_2026, 10_50 PM.mp4",
+    "bytes": 10764846,
+    "sha256": "12c43ace285c9f0dacea02226f07d855c6c91771887fe1afc2616c838ed2942c"
+  },
+  {
+    "file": "04_EARLIER_VERSIONS/FOCUSED_TALK_UPLOADS/Between Representation and Authentication.pptx",
+    "bytes": 1374488,
+    "sha256": "6f1a6c089c5b2912ed987307ddfa3442b4eda1d2ec15518d1aaf6fc460285d4f"
+  },
+  {
+    "file": "04_EARLIER_VERSIONS/FOCUSED_TALK_UPLOADS/Enhanced - Between Representation and Authentication.pdf",
+    "bytes": 11693611,
+    "sha256": "ba35d0180cc6a41e3abc3c38b957e14bf14fa82c7b6fd836aae0d0ebeeb08d7d"
+  },
+  {
+    "file": "04_EARLIER_VERSIONS/FOCUSED_TALK_UPLOADS/Enhanced - Between Representation and Authentication.pptx",
+    "bytes": 11374678,
+    "sha256": "dc9a9f733dd26693e54248516e79b43bf6b58c7ff45cf89ad9a2b50c2fdfa0df"
+  },
+  {
+    "file": "04_EARLIER_VERSIONS/FOCUSED_TALK_UPLOADS/spoken-script-english-and-italian-13-11-2026.md",
+    "bytes": 23381,
+    "sha256": "255836f456a28ee0eb6c672f6aa0ea72597e268398442daa0781a070791f3a4a"
+  },
+  {
+    "file": "04_EARLIER_VERSIONS/Filosofia da pesquisa para a ICONOCRACY — guia metodológico (edição revista).pdf",
+    "bytes": 119255,
+    "sha256": "46b56265dba7ce1c7212cece9c96425dbd5f026209ce189097a576941afbef46"
+  },
+  {
+    "file": "04_EARLIER_VERSIONS/ICONOCRACIA — Documento de orientação da tese · 27 out. 2026.md",
+    "bytes": 26399,
+    "sha256": "ab889a97aec6d0e9976ac9b1bb4462ecf1d72daea4d11bf5f1f7806390197687"
+  },
+  {
+    "file": "04_EARLIER_VERSIONS/ICONOCRACIA-sintese-e-mapa-de-atualizacao-2026-10-26.md",
+    "bytes": 21062,
+    "sha256": "ce460083b8c2396e9a7f0d4302c03aa7b9408da5442c32bc2cb1f10dc56763a5"
+  },
+  {
+    "file": "04_EARLIER_VERSIONS/ICONOCRACIA_Audit_Working_Package_and_Ledgers.zip",
+    "bytes": 67873,
+    "sha256": "d7e54c9cd794ce55f00eedfdf7072113761219ab1f7913bc7f92066f8710281b"
+  },
+  {
+    "file": "04_EARLIER_VERSIONS/ICONOCRACIA_Thesis_Audit_Working_Package.docx",
+    "bytes": 67061,
+    "sha256": "5763e44f86c0a0515ba181c0ac91c0df02ce7ce6e8ef0ec1aba79ef5287294e8"
+  },
+  {
+    "file": "04_EARLIER_VERSIONS/ICONOCRACIA_auditoria_revista_e_matriz_2026-10-29.pdf",
+    "bytes": 1328708,
+    "sha256": "2268c10e5b7c3019e8475f547ecee918c4e41163178e96a0a568c146918b0e47"
+  },
+  {
+    "file": "04_EARLIER_VERSIONS/Iconocracia_fichas_e_metodologia.docx",
+    "bytes": 51112,
+    "sha256": "f5f0282202b5a0afceb5e014da51d1058ba1be43ab2e82964fc0179052f1faa1"
+  },
+  {
+    "file": "04_EARLIER_VERSIONS/Iconocracia_fichas_e_metodologia.pdf",
+    "bytes": 258693,
+    "sha256": "74489547b7b510831d3a73e628d77bfcb0e700252a41e90382aa026685672a86"
+  },
+  {
+    "file": "04_EARLIER_VERSIONS/Iconocracy-Agent-3.2.0-2026-11-05.zip",
+    "bytes": 77566,
+    "sha256": "f351bcbec6d94536d6bf16c921a42f7d6e6fc7b3dc46bc3a3b37a326990ca926"
+  },
+  {
+    "file": "04_EARLIER_VERSIONS/Iconocracy_Thesis_Audit.docx",
+    "bytes": 75190,
+    "sha256": "4727b60e6aa2a37793b0740fbafc2db26f88fca6b39aa447f6d74e2fbdc0ecd4"
+  },
+  {
+    "file": "04_EARLIER_VERSIONS/Iconocracy_Thesis_Audit.pdf",
+    "bytes": 366438,
+    "sha256": "12f39282af5d943bfe908c45dbe7220a3e98eddd9a32ef840a30070737c03bc7"
+  },
+  {
+    "file": "04_EARLIER_VERSIONS/Projeto_ICONOCRACIA_integral_Georges_23-10-2026.md",
+    "bytes": 216677,
+    "sha256": "5611cfc8feb8ca83384851994a51398e783995b429b0ee2d45a61457d79ab88a"
+  },
+  {
+    "file": "04_EARLIER_VERSIONS/Projeto_ICONOCRACIA_revisao_academica_23-10-2026.docx",
+    "bytes": 129342,
+    "sha256": "c81809f435bae37d7ae1e270a9b500693802b55c774f0449b8afa1a8c875cc00"
+  },
+  {
+    "file": "04_EARLIER_VERSIONS/Projeto_ICONOCRACIA_revisao_academica_23-10-2026.pdf",
+    "bytes": 474821,
+    "sha256": "fab5489090438ce5d1d69c9e512e5c843ba97a38aa31ead0885e00dce86eb0df"
+  },
+  {
+    "file": "04_EARLIER_VERSIONS/Status_CPLX_ICONOCRACIA_corrigido_2026-11-01.md",
+    "bytes": 21733,
+    "sha256": "806bfbb950027c2ce3d873ad4003c605922583991cbdc5bc5764dc8a5cb71b97"
+  },
+  {
+    "file": "04_EARLIER_VERSIONS/TESE/05-Cross-Media Visual Montages in Legal History A Research Framework for Legal Iconology and Iconocracy.md",
+    "bytes": 44583,
+    "sha256": "9a9d03d89c78b30f6c2b9506c64fa29ba00f0fb7ea55730c2904be9cdf044d08"
+  },
+  {
+    "file": "04_EARLIER_VERSIONS/TESE/Filosofia_da_pesquisa_para_a_ICONOCRACY_guia_metodologico_(edicao_revista).docx",
+    "bytes": 34355,
+    "sha256": "cfa5ce95414dc4f3d6301cb8eca517bf09e95355c3f2d88c2a92e12b9a1ab5ac"
+  },
+  {
+    "file": "04_EARLIER_VERSIONS/TESE/ICONOCRACIA Thesis_ An Assessment of Fit, Originality and Publication Prospects.pdf",
+    "bytes": 337461,
+    "sha256": "00637e6876bf85b0429892e2dc4a3f97db4c888de2944f9c5a1f20fd4241a314"
+  },
+  {
+    "file": "04_EARLIER_VERSIONS/TESE/ICONOCRACIA_capitulo_metodologico_reconciliado_2026-10-26.md",
+    "bytes": 64586,
+    "sha256": "c264441586bfd4ac896e587cbcd26752e59d7562ef3ed6055dfdb64666c9fd4f"
+  },
+  {
+    "file": "04_EARLIER_VERSIONS/TESE/ICONOCRACIA_capitulo_metodologico_v1_1_dia_refine_2026-10-26.md",
+    "bytes": 66823,
+    "sha256": "5e94ca387bb1a5a4092c1b908f7bfdec7a71d7792f59cc2443c6e29b7273f243"
+  },
+  {
+    "file": "04_EARLIER_VERSIONS/TESE/Iconocracia_auditoria_Consensus_Dialectic_2026-10-26.md",
+    "bytes": 16230,
+    "sha256": "675555c3ce04b62160c7d18278425d3b92bb7a3627e737544403fb2bcfd5b05e"
+  },
+  {
+    "file": "04_EARLIER_VERSIONS/iconocracy-atlas-source-table - iconocracy-atlas-source-table.csv",
+    "bytes": 122870,
+    "sha256": "e47bae0a81f634d1e24af5d8a7c45b0e0c89f809ffabfca5b9ad365ed1333ae7"
+  },
+  {
+    "file": "04_EARLIER_VERSIONS/iconocracy-warburg.md",
+    "bytes": 43278,
+    "sha256": "5358a11f153c2b93557ea6eb97f569f995bc3daabe1f831ee2469953e1c89195"
+  },
+  {
+    "file": "04_EARLIER_VERSIONS/orientacoes-georges-martyn-iconocracia-v2.docx",
+    "bytes": 43359,
+    "sha256": "76b40514048f1c175668c78489a58a39f2fff1c274a96929c389047be931a0a2"
+  },
+  {
+    "file": "04_EARLIER_VERSIONS/orientacoes-georges-martyn-iconocracia-v2.pdf",
+    "bytes": 135417,
+    "sha256": "19887b98093a2bd093676f69ae6fac77803d09c6920b28e5df237077877874b6"
+  },
+  {
+    "file": "05_SOURCES_AND_STATUS/STATUS_E_FONTES.md",
+    "bytes": 3234,
+    "sha256": "3bcc4f5a819e5ddc38e3d5327a58f913412267cf849bfce33605510b85b9f039"
+  },
+  {
+    "file": "06_PRIVATE_STRATEGY_UNVERIFIED/Estrategia_Transicao_Doutoral_Iconocracia.md",
+    "bytes": 8499,
+    "sha256": "b7e92b995ed19ea40ba295a6075f06bf5f86d00dd5b0876301e6b2719671e9dc"
+  },
+  {
+    "file": "README.md",
+    "bytes": 2777,
+    "sha256": "0863874de6acd97aae149dac97ec86eb8c41ee34ab396c516d08d201af966038"
+  }
+]

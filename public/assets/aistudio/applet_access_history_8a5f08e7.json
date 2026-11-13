@@ -1,0 +1,702 @@
+{
+  "applets": [{
+    "lastAccessTime": "2026-11-13T10:55:12.973417Z",
+    "firstAccessTime": "2026-11-05T10:21:15.882219Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "9754e3b2-54ad-4976-a099-e3feda54a86c"
+      }
+    },
+    "name": "ana.archive :)"
+  }, {
+    "lastAccessTime": "2026-11-13T10:08:15.854359Z",
+    "firstAccessTime": "2026-10-31T21:44:23.995165Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "eb16958a-89c0-4b86-9779-bac5cc270089"
+      }
+    },
+    "name": "anavanzin-kimi",
+    "description": "Imported from GitHub: anavvanzin/anavanzin-kimi"
+  }, {
+    "lastAccessTime": "2026-11-13T10:02:16.222127Z",
+    "firstAccessTime": "2026-11-13T07:49:33.671461Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "e12a4fba-db81-4dcd-ae79-055323fb20f5"
+      }
+    },
+    "name": "AVESSO — Leitura e Revisão",
+    "description": "Protótipo literário para acompanhar o processo de escrita por trás de uma frase."
+  }, {
+    "lastAccessTime": "2026-11-13T09:44:20.273569Z",
+    "firstAccessTime": "2026-11-13T09:39:13.586732Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "b860b331-0a23-4e99-a765-809ab8bc4081"
+      }
+    },
+    "name": "anavanzin",
+    "description": "Imported from GitHub: anavvanzin/anavanzin"
+  }, {
+    "lastAccessTime": "2026-11-13T09:44:09.477350Z",
+    "firstAccessTime": "2026-10-31T22:18:51.770850Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "87326943-049a-4418-b9dd-0a2c140ab140"
+      }
+    },
+    "name": "ANA",
+    "description": "Upload an image of a board game, floor layout, or anything you can think of to turn it into an interactive experience."
+  }, {
+    "lastAccessTime": "2026-11-13T09:42:22.164962Z",
+    "firstAccessTime": "2026-10-27T08:51:52.935930Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "f2c6849a-d4b8-42a2-9393-407df049476f"
+      }
+    },
+    "name": "AI Writing Collaborator",
+    "description": "A beautiful, distraction-free writing canvas where AI is a true thought partner—providing inline feedback, proactive suggestions, and seamless contextual rewrites without copy-pasting.",
+    "runtimeType": 1
+  }, {
+    "lastAccessTime": "2026-11-13T09:39:15.696291Z",
+    "firstAccessTime": "2026-11-11T06:13:09.744717Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "f2329424-74f4-43b0-9dcb-a9cd240479c9"
+      }
+    },
+    "name": "Remix discussing-dauchy-montesquieu",
+    "description": "Imported from GitHub: anavvanzin/discussing-dauchy-montesquieu",
+    "runtimeType": 1
+  }, {
+    "lastAccessTime": "2026-11-13T09:37:44.562909Z",
+    "firstAccessTime": "2026-11-13T09:37:44.562909Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "0c676738-7e82-46ea-8677-57d419efe5dd"
+      }
+    },
+    "name": "Remix Proactive Co-Creator",
+    "description": "An intelligent agent that collaborates with users to refine prompts for content creation, using a belief graph and interactive questions, powered by the Gemini API."
+  }, {
+    "lastAccessTime": "2026-11-13T09:33:14.951977Z",
+    "firstAccessTime": "2026-11-13T09:31:06.183942Z",
+    "source": {
+      "sourceType": "BUNDLED",
+      "bundled": {
+        "id": "paint_a_place"
+      }
+    },
+    "name": "Paint A Place",
+    "description": "Transform any Google Maps location into a stunning watercolor painting with Nano Banana."
+  }, {
+    "lastAccessTime": "2026-11-13T09:32:39.713180Z",
+    "firstAccessTime": "2026-11-10T03:25:51.519224Z",
+    "source": {
+      "sourceType": "BUNDLED",
+      "bundled": {
+        "id": "audio-storybooks-managed-agent"
+      }
+    },
+    "name": "Audio Storybook Generator - Managed Agent",
+    "description": "An autonomous illustrated storybook \u0026 dramatized classic audiobook studio powered by the Gemini Managed Agent and the Gemini API CLI across the Gemini model catalog."
+  }, {
+    "lastAccessTime": "2026-11-13T09:30:53.807616Z",
+    "firstAccessTime": "2026-11-11T22:38:58.417003Z",
+    "source": {
+      "sourceType": "BUNDLED",
+      "bundled": {
+        "id": "proactive_co_creator"
+      }
+    },
+    "name": "Proactive Co-Creator",
+    "description": "An intelligent agent that collaborates with users to refine prompts for content creation, using a belief graph and interactive questions, powered by the Gemini API."
+  }, {
+    "lastAccessTime": "2026-11-13T08:25:24.865397Z",
+    "firstAccessTime": "2026-11-13T08:25:24.865397Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "9e817c83-5c62-465c-936a-82c6d5fbbd92"
+      }
+    },
+    "name": "Remix Gemini Decisions API Playground",
+    "description": "Gemini Decisions API Playground"
+  }, {
+    "lastAccessTime": "2026-11-13T08:04:01.116160Z",
+    "firstAccessTime": "2026-11-11T22:15:27.428864Z",
+    "source": {
+      "sourceType": "BUNDLED",
+      "bundled": {
+        "id": "gemini-decisions-api-playground"
+      }
+    },
+    "name": "Gemini Decisions API Playground",
+    "description": "Gemini Decisions API Playground"
+  }, {
+    "lastAccessTime": "2026-11-13T07:48:48.430419Z",
+    "firstAccessTime": "2026-11-13T07:48:48.430419Z",
+    "source": {
+      "sourceType": "BUNDLED",
+      "bundled": {
+        "id": "interactive-data-dashboard"
+      }
+    },
+    "name": "Interactive Data Dashboard",
+    "description": "An interactive data visualization and editorial dashboard template built with responsive SVG charts, live filters, scrollytelling columns, and accessible data tables. "
+  }, {
+    "lastAccessTime": "2026-11-13T07:39:51.481675Z",
+    "firstAccessTime": "2026-11-05T19:48:03.561963Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "6d9fbe00-6f71-4633-9cbe-abe43bba4faa"
+      }
+    },
+    "name": "discussing-dauchy-montesquieu",
+    "description": "Imported from GitHub: anavvanzin/discussing-dauchy-montesquieu",
+    "runtimeType": 1
+  }, {
+    "lastAccessTime": "2026-11-11T19:31:30.084054Z",
+    "firstAccessTime": "2026-11-11T17:45:48.683477Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "d507d662-b80a-4598-8522-d4ecd60070d0"
+      }
+    },
+    "name": "Remix Remix discussing-dauchy-montesquieu",
+    "description": "Imported from GitHub: anavvanzin/discussing-dauchy-montesquieu"
+  }, {
+    "lastAccessTime": "2026-11-11T17:55:22.153043Z",
+    "firstAccessTime": "2026-11-11T16:53:48.980912Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "d34ba4e3-c88a-4606-9253-070c09b06928"
+      }
+    },
+    "name": "Projetor de Programação PPGD-UFSC",
+    "description": "Sistema de projeção em tela cheia para intervalos de palestras, gestão de lâminas da programação acadêmica e geração de artes em alta resolução.",
+    "runtimeType": 1
+  }, {
+    "lastAccessTime": "2026-11-11T15:41:13.493188Z",
+    "firstAccessTime": "2026-11-10T03:26:59.113866Z",
+    "source": {
+      "sourceType": "BUNDLED",
+      "bundled": {
+        "id": "table-read"
+      }
+    },
+    "name": "Table Read",
+    "description": "Upload a script and hear it performed. Each character is cast to a voice of their own, and you direct how the scene is played — the words never change, only the delivery."
+  }, {
+    "lastAccessTime": "2026-11-10T20:50:09.270138Z",
+    "firstAccessTime": "2026-11-10T20:50:09.270138Z",
+    "source": {
+      "sourceType": "BUNDLED",
+      "bundled": {
+        "id": "gemini-supply"
+      }
+    },
+    "name": "Gemini Supply",
+    "description": "Interactive WebGL2 and kinetic scroll storefront for the Google Gemini merchandise collection."
+  }, {
+    "lastAccessTime": "2026-11-10T04:02:48.199256Z",
+    "firstAccessTime": "2026-10-31T22:21:30.889716Z",
+    "source": {
+      "sourceType": "BUNDLED",
+      "bundled": {
+        "id": "bring_any_idea_to_life"
+      }
+    },
+    "name": "Bring Any Idea to Life",
+    "description": "Upload an image of a board game, floor layout, or anything you can think of to turn it into an interactive experience."
+  }, {
+    "lastAccessTime": "2026-11-10T00:46:26.303783Z",
+    "firstAccessTime": "2026-10-28T20:09:44.643956Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "4eed8edc-db21-48c8-b4ad-d0ea9d2cf2c7"
+      }
+    },
+    "name": "ana.archive",
+    "description": "Imported from GitHub: anavvanzin/ana.archive",
+    "runtimeType": 1
+  }, {
+    "lastAccessTime": "2026-11-08T22:18:47.456335Z",
+    "firstAccessTime": "2026-10-27T10:12:21.471867Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "8b910571-9f16-4778-bbb7-07e25c5ecb46"
+      }
+    },
+    "name": "Iconocracia — Constelação \u0026 Glossário da Cultura Jurídica",
+    "description": "Plataforma de navegação em Constelação 3D, Palco e Grade e Glossário Interativo para a tese \u0027Iconocracia: Alegoria Feminina na História da Cultura Jurídica (séculos XIX–XX)\u0027, com montagem autoral Zwischenraum e leitura com tooltip iconológico."
+  }, {
+    "lastAccessTime": "2026-11-08T22:18:18.179469Z",
+    "firstAccessTime": "2026-11-08T22:18:18.179469Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "4bb73eae-0524-41b5-8108-062d26325345"
+      }
+    },
+    "name": "Iconocracia: Digital Research Advisor",
+    "description": "An academic platform for investigating female allegory in legal culture (19th-20th centuries), governed by the logic of iconocracy and state femininity.",
+    "runtimeType": 1
+  }, {
+    "lastAccessTime": "2026-11-06T11:29:01.201847Z",
+    "firstAccessTime": "2026-10-31T22:20:43.418488Z",
+    "source": {
+      "sourceType": "BUNDLED",
+      "bundled": {
+        "id": "flash_lite_browser"
+      }
+    },
+    "name": "Flash-Lite Browser",
+    "description": "Imagine any website, generated in real-time by Gemini 3.1 Flash-Lite"
+  }, {
+    "lastAccessTime": "2026-11-05T19:16:13.220748Z",
+    "firstAccessTime": "2026-10-31T22:26:35.571666Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "2b584e31-a4f8-443b-8793-c80a7d6b25f9"
+      }
+    },
+    "name": "ITALIA",
+    "description": "Il Grand Tour di Ana — An illuminated quest map of Florence and Rome with animated trails, custom monument crests, and Passaporto stamps."
+  }, {
+    "lastAccessTime": "2026-11-05T19:12:58.897372Z",
+    "firstAccessTime": "2026-10-31T22:29:41.814864Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "8d38861f-80ac-4fbe-8396-d5be9adedd45"
+      }
+    },
+    "name": "Remix: Infinite Wiki",
+    "description": "Explore an infinite wiki where every word is a hyperlink to descriptions generated in real-time."
+  }, {
+    "lastAccessTime": "2026-11-05T18:46:32.657860Z",
+    "firstAccessTime": "2026-11-05T18:46:32.657860Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "631cbe5e-b98c-4f28-b6a6-7e4f1e8b6864"
+      }
+    },
+    "name": "Remix Scribe",
+    "description": "Talk to a smart, collaborative agent who will write for you. Communicate thoughts, brainstorm ideas and create interactive multimodal documents."
+  }, {
+    "lastAccessTime": "2026-11-05T18:39:25.085169Z",
+    "firstAccessTime": "2026-11-05T18:39:25.085169Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "f79e2829-9b05-47b6-98a9-b43abf465b3f"
+      }
+    },
+    "name": "coven-game-2",
+    "description": "Imported from GitHub: anavvanzin/coven-game-2",
+    "runtimeType": 1
+  }, {
+    "lastAccessTime": "2026-11-05T18:39:22.559108Z",
+    "firstAccessTime": "2026-11-05T18:39:22.559108Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "d770123e-44db-46c0-94bf-6e89d991b314"
+      }
+    },
+    "name": "Remix cheda",
+    "description": "Imported from GitHub: anavvanzin/cheda",
+    "runtimeType": 1
+  }, {
+    "lastAccessTime": "2026-11-05T18:39:18.249107Z",
+    "firstAccessTime": "2026-10-27T08:53:24.884735Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "578645aa-8338-400b-a13b-1ff5d885bc47"
+      }
+    },
+    "name": "legal-visual-argumentation",
+    "description": "Imported from GitHub: anavvanzin/legal-visual-argumentation",
+    "runtimeType": 1
+  }, {
+    "lastAccessTime": "2026-11-05T18:39:08.169275Z",
+    "firstAccessTime": "2026-10-31T22:23:54.245201Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "461715c6-9135-4516-893c-9fc179521206"
+      }
+    },
+    "name": "Estúdio de Transferência Cultural: Iconocracia Analytical Lab",
+    "description": "Laboratório analítico de visão semiótica e guia narrativo-genealógico da tese em História da Cultura Jurídica (UFSC): Transplantação e Desvio, Protocolo Dal Ri e Iconoclasmo Tropical.",
+    "runtimeType": 1
+  }, {
+    "lastAccessTime": "2026-11-05T18:36:54.394828Z",
+    "firstAccessTime": "2026-11-05T10:40:01.052991Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "5e272fe2-be55-4330-af8c-8d39bd95b576"
+      }
+    },
+    "name": "EpistemePrompt - Academic Prompt Engineering Studio",
+    "description": "Transform research fragments and theoretical drafts into rigorous, epistemologically dense academic prompts with anti-hallucination constraints and Google Drive integration.",
+    "runtimeType": 1
+  }, {
+    "lastAccessTime": "2026-11-05T10:46:53.887352Z",
+    "firstAccessTime": "2026-10-31T22:21:51.620913Z",
+    "source": {
+      "sourceType": "BUNDLED",
+      "bundled": {
+        "id": "p5js_playground"
+      }
+    },
+    "name": "p5js playground",
+    "description": "Generate, edit, and preview interactive p5.js art and games simply by chatting with Gemini."
+  }, {
+    "lastAccessTime": "2026-11-05T10:46:31.874923Z",
+    "firstAccessTime": "2026-11-05T10:46:31.874923Z",
+    "source": {
+      "sourceType": "BUNDLED",
+      "bundled": {
+        "id": "visual_computer"
+      }
+    },
+    "name": "Visual Computer",
+    "description": "Use your pen to control a virtual OS. Create AI wallpapers, take actions on folders, and summarize emails, leveraging the multimodal understanding capabilities of Gemini 3 Flash."
+  }, {
+    "lastAccessTime": "2026-11-05T10:45:17.724334Z",
+    "firstAccessTime": "2026-11-05T10:45:17.724334Z",
+    "source": {
+      "sourceType": "BUNDLED",
+      "bundled": {
+        "id": "bananimate"
+      }
+    },
+    "name": "Bananimate",
+    "description": "Create animated GIFs with Nano Banana from your images and prompts."
+  }, {
+    "lastAccessTime": "2026-11-05T10:45:14.223997Z",
+    "firstAccessTime": "2026-11-05T10:45:14.223997Z",
+    "source": {
+      "sourceType": "BUNDLED",
+      "bundled": {
+        "id": "info_genius"
+      }
+    },
+    "name": "InfoGenius",
+    "description": "Using Google search grounding you are able to research topics and instantly generate verified visuals tailored to your audience."
+  }, {
+    "lastAccessTime": "2026-11-05T10:43:31.575743Z",
+    "firstAccessTime": "2026-10-31T22:24:00.776370Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "8bd2c53f-8251-48c5-a7f7-2412a3fa0f77"
+      }
+    },
+    "name": "Remix Flash-Lite Browser",
+    "description": "Imagine any website, generated in real-time by Gemini 3.1 Flash-Lite"
+  }, {
+    "lastAccessTime": "2026-11-05T10:40:12.708124Z",
+    "firstAccessTime": "2026-11-05T10:40:12.708124Z",
+    "source": {
+      "sourceType": "BUNDLED",
+      "bundled": {
+        "id": "gemini_visual_thinking"
+      }
+    },
+    "name": "Gemini Agentic Vision",
+    "description": "Explore the thinking-with-images feature of Gemini 3.6 Flash"
+  }, {
+    "lastAccessTime": "2026-11-05T10:38:22.183923Z",
+    "firstAccessTime": "2026-11-05T10:38:22.183923Z",
+    "source": {
+      "sourceType": "BUNDLED",
+      "bundled": {
+        "id": "tessera"
+      }
+    },
+    "name": "Artistic Mosaic Poster Generator",
+    "description": "Tessera is an interactive art workstation that generates unique artistic mosaic tiles \u0026 lets you create a sharable poster"
+  }, {
+    "lastAccessTime": "2026-11-05T10:37:11.360101Z",
+    "firstAccessTime": "2026-11-05T10:37:11.360101Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "b49f7164-567c-41cf-bc27-5ac05b223e89"
+      }
+    },
+    "name": "Remix Gemini Agentic Vision",
+    "description": "Explore the thinking-with-images feature of Gemini 3.0 Flash Preview"
+  }, {
+    "lastAccessTime": "2026-11-05T00:54:22.458422Z",
+    "firstAccessTime": "2026-10-31T22:31:44.503183Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "c5e6879a-8c4f-4425-9917-7a83f8ca82c3"
+      }
+    },
+    "name": "Remix: Research Visualization",
+    "description": "Research paper reimagined as an elegant, interactive narrative site for thesis\n."
+  }, {
+    "lastAccessTime": "2026-11-02T20:04:24.126023Z",
+    "firstAccessTime": "2026-11-01T22:09:50.210166Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "9ae99193-b135-4110-9aac-055488ec859f"
+      }
+    },
+    "name": "Ana Vanzin — Ex-Libris \u0026 Bookmark Print Studio",
+    "description": "Interactive editorial design review board and pre-press print studio for Ana Vanzin\u0027s Iconocracia bookmark proposals."
+  }, {
+    "lastAccessTime": "2026-11-02T04:07:26.373800Z",
+    "firstAccessTime": "2026-11-02T04:07:26.373800Z",
+    "source": {
+      "sourceType": "BUNDLED",
+      "bundled": {
+        "id": "website-checker"
+      }
+    },
+    "name": "Website Accessibility \u0026 Performance Checker - Managed Agent",
+    "description": "Lighthouse \u0026 Light Web Application Code Audit powered by a Gemini Managed Agent."
+  }, {
+    "lastAccessTime": "2026-10-31T22:29:31.107744Z",
+    "firstAccessTime": "2026-10-31T22:15:59.833143Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "e836bc41-3cfc-4aef-b819-8bda28d4c3b6"
+      }
+    },
+    "name": "Remix Interactive Visual Dictionary",
+    "description": "An interactive reading experience where any text highlight instantly generates an AI-powered explanation and a contextual image representation in a seamless floating tooltip."
+  }, {
+    "lastAccessTime": "2026-10-31T22:28:16.313999Z",
+    "firstAccessTime": "2026-10-31T22:27:03.616662Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "a351f9ce-8e79-4b9f-a88a-1f20f9d32925"
+      }
+    },
+    "name": "GRIDSCAPE MÉTODO PANOFSKY",
+    "description": "An infinite spatial canvas for exploring interconnected concepts using AI-generated text and contextual imagery."
+  }, {
+    "lastAccessTime": "2026-10-31T22:28:12.056474Z",
+    "firstAccessTime": "2026-10-31T22:28:12.056474Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "1f2ec3a7-cd19-4d84-a7a6-b28834132af3"
+      }
+    },
+    "name": "Dream Journal",
+    "description": "A multi-modal Jungian Dream Journal with voice recording, AI transcription, surrealist dream styling, psychological analysis, and interactive symbol follow-up chat.",
+    "runtimeType": 1
+  }, {
+    "lastAccessTime": "2026-10-31T22:23:56.183563Z",
+    "firstAccessTime": "2026-10-31T22:23:56.183563Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "ee84eb79-73ea-4d18-938b-af706a22565a"
+      }
+    },
+    "name": "Cross-Iconclass: Morfologia do Hibridismo",
+    "description": "Ambiente analítico para Codificação Cross-Iconclass, Matriz Transatlântica da Iconocracia e Ateliê de Geração/Edição de Alegorias Jurídicas com IA.",
+    "runtimeType": 1
+  }, {
+    "lastAccessTime": "2026-10-31T22:22:07.420765Z",
+    "firstAccessTime": "2026-10-31T22:22:07.420765Z",
+    "source": {
+      "sourceType": "BUNDLED",
+      "bundled": {
+        "id": "pixel-arcade"
+      }
+    },
+    "name": "Arcade Game Generator - Managed Agent",
+    "description": "Answer four playful questions and play your own custom pixel-art game on a 3D arcade cabinet skinned just for you."
+  }, {
+    "lastAccessTime": "2026-10-31T22:20:40.427175Z",
+    "firstAccessTime": "2026-10-31T22:20:40.427175Z",
+    "source": {
+      "sourceType": "BUNDLED",
+      "bundled": {
+        "id": "maps-travel-planner"
+      }
+    },
+    "name": "Maps Travel Planner",
+    "description": "Explore top global cities and save destinations using this Google Maps Platform travel planner"
+  }, {
+    "lastAccessTime": "2026-10-31T22:20:32.666688Z",
+    "firstAccessTime": "2026-10-31T22:20:32.666688Z",
+    "source": {
+      "sourceType": "BUNDLED",
+      "bundled": {
+        "id": "gridscape"
+      }
+    },
+    "name": "Interactive Spatial Concept Canvas",
+    "description": "An infinite spatial canvas for exploring interconnected concepts using AI-generated text and contextual imagery."
+  }, {
+    "lastAccessTime": "2026-10-31T22:17:53.418008Z",
+    "firstAccessTime": "2026-10-31T22:16:04.447533Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "e3028e4f-a8e3-4e87-adb5-df7c6ee82b3c"
+      }
+    },
+    "name": "Remix Arcade Game Generator - Managed Agent",
+    "description": "Answer four playful questions and play your own custom pixel-art game on a 3D arcade cabinet skinned just for you."
+  }, {
+    "lastAccessTime": "2026-10-31T22:17:45.240197Z",
+    "firstAccessTime": "2026-10-31T22:08:15.080597Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "c49ceece-3f3b-4c2f-bfa7-f5db1d5c5e1d"
+      }
+    },
+    "name": "baralho-das-alegorias",
+    "description": "Imported from GitHub: anavvanzin/baralho-das-alegorias",
+    "runtimeType": 1
+  }, {
+    "lastAccessTime": "2026-10-31T22:15:18.580972Z",
+    "firstAccessTime": "2026-10-27T10:40:35.042652Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "b98baa28-295f-4c8e-8abe-17a5c4a147a9"
+      }
+    },
+    "name": "atlaslab",
+    "description": "Imported from GitHub: anavvanzin/atlaslab",
+    "runtimeType": 1
+  }, {
+    "lastAccessTime": "2026-10-31T22:13:17.614896Z",
+    "firstAccessTime": "2026-10-30T18:57:05.792881Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "f0837aa3-28e3-408f-b23c-192bffcee95c"
+      }
+    },
+    "name": "Remix Literature Reviewer",
+    "description": "Literature Reviewer Managed agent that queries PubMed and Semantic Scholar, deduplicates citations, groups papers into thematic clusters, and synthesizes consensus findings, debates, and research gaps."
+  }, {
+    "lastAccessTime": "2026-10-31T22:11:27.891182Z",
+    "firstAccessTime": "2026-10-31T22:05:59.253331Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "ca496424-e20a-4e77-bd94-d1905897d787"
+      }
+    },
+    "name": "alegorias-jurisdicao",
+    "description": "Imported from GitHub: anavvanzin/alegorias-jurisdicao"
+  }, {
+    "lastAccessTime": "2026-10-30T18:56:36.375792Z",
+    "firstAccessTime": "2026-10-30T18:56:36.375792Z",
+    "source": {
+      "sourceType": "BUNDLED",
+      "bundled": {
+        "id": "literature-reviewer"
+      }
+    },
+    "name": "Literature Reviewer",
+    "description": "Literature Reviewer Managed agent that queries PubMed and Semantic Scholar, deduplicates citations, groups papers into thematic clusters, and synthesizes consensus findings, debates, and research gaps."
+  }, {
+    "lastAccessTime": "2026-10-29T15:22:42.874872Z",
+    "firstAccessTime": "2026-10-27T11:05:43.654923Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "0fcfdafc-821c-4084-bc90-1870d6a27ebd"
+      }
+    },
+    "name": "Remix legal-visual-argumentation",
+    "description": " remix-legal-visual aid tool to generate simple diagrams from complex legal contract clauses",
+    "runtimeType": 1
+  }, {
+    "lastAccessTime": "2026-10-28T18:55:00.593927Z",
+    "firstAccessTime": "2026-10-28T18:55:00.593927Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "5d7304e8-830c-4333-b3de-8952bf203e8e"
+      }
+    },
+    "name": "iconocracia-companion",
+    "description": "Imported from GitHub: anavvanzin/iconocracia-companion",
+    "runtimeType": 1
+  }, {
+    "lastAccessTime": "2026-10-27T11:10:12.112991Z",
+    "firstAccessTime": "2026-10-27T10:12:24.249003Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "5c984194-a273-47c3-b3c0-7b625b063bcc"
+      }
+    },
+    "name": "iconocracia-cv",
+    "description": "Imported from GitHub: anavvanzin/iconocracia-cv"
+  }, {
+    "lastAccessTime": "2026-10-27T10:34:12.296420Z",
+    "firstAccessTime": "2026-10-27T10:13:23.989028Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "4594a423-df12-432d-82cb-9e1479745a2e"
+      }
+    },
+    "name": "jupyterlab-git",
+    "description": "Imported from GitHub: anavvanzin/jupyterlab-git"
+  }, {
+    "lastAccessTime": "2026-10-27T10:32:44.287808Z",
+    "firstAccessTime": "2026-10-27T10:32:44.287808Z",
+    "source": {
+      "sourceType": "BUNDLED",
+      "bundled": {
+        "id": "ai-data-analyst"
+      }
+    },
+    "name": "AI Data Analyst",
+    "description": "AI Data Analyst delivers interactive data analytics and insights. Upload CSVs, ask a question, and let Gemini Managed Agents autonomously analyze it."
+  }, {
+    "lastAccessTime": "2026-10-27T10:12:20.048648Z",
+    "firstAccessTime": "2026-10-27T08:59:36.676755Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "92c84b2e-e0f6-448e-bd20-5c10afa3a074"
+      }
+    },
+    "name": "iurisvision",
+    "description": "Imported from GitHub: anavvanzin/iurisvision",
+    "runtimeType": 1
+  }]
+}
